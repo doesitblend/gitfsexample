@@ -1,11 +1,12 @@
 rando:
   - 3.14
   - this is data
-  somedict:
-    - i
-    - am
-    - a
-    - list
+
+somedict:
+  - i
+  - am
+  - a
+  - list
 
 possibly_used_somewhere:
   user_login: aname
