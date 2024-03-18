@@ -10,6 +10,12 @@ regions:
   - ru
   - ca
 
+classes:
+  - mechanics
+  - avionics
+  - mathematics
+  - how to swear like a sailor
+
 somedict:
   - i
   - am
