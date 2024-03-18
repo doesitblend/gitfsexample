@@ -14,7 +14,8 @@ classes:
   - mechanics
   - avionics
   - mathematics
-  - how to swear like a sailor
+  - culture
+
 
 somedict:
   - i
