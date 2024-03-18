@@ -2,6 +2,14 @@ rando:
   - 3.14
   - this is data
 
+regions:
+  - na
+  - eu
+  - ap
+  - jp
+  - ru
+  - ca
+
 somedict:
   - i
   - am
