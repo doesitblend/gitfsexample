@@ -22,6 +22,9 @@ somedict:
   - am
   - a
   - list
+  - status:
+      awake: true
+      secure: true
 
 possibly_used_somewhere:
   user_login: aname
